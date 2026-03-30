@@ -22,3 +22,6 @@ Step 5: Choose your model. This is already set for EUP models, but can be change
 
   # Support
   If you need any support what so ever, please feel free to join my Discord. There is also other assets available by Breezey located exclusivly in the Discord. https://discord.gg/ApRbCEweu
+
+![Receptionist](https://cdn.discordapp.com/attachments/1385415042819952650/1488251661423087678/Receptionist.png?ex=69cc19de&is=69cac85e&hm=ee53fd342d5e6d092bb20b0de6b3d2c38565f328d0f70667301e6dcb64ccb3e5&)
+![Message](https://cdn.discordapp.com/attachments/1385415042819952650/1488251660621840384/Message.png?ex=69cc19de&is=69cac85e&hm=fca0632f3d457bb9cd3e5238cc2970496bca37a6fe5f10776d4c316533c1ec54&)
